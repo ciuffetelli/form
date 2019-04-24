@@ -1,0 +1,19 @@
+{
+    "name": "seufetelli/form",
+    "description": "Laravel Pack com formulario para simples execução",
+    "type": "li",
+    "license": "open",
+    "minimum-stability": "beta",
+    "authors": [{
+            "name": "Daniel Seufetelli",
+            "email": "seufetelli@gmail.com"
+        }],    
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "seufetelli\\form\\": "src/"
+            }
+        }
+}
+
+
