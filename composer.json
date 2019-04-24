@@ -1,7 +1,7 @@
 {
     "name": "seufetelli/form",
     "description": "Laravel Pack com formulario para simples execução",
-    "type": "li",
+    "type": "Pack",
     "license": "open",
     "minimum-stability": "beta",
     "authors": [{

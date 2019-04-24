@@ -1,5 +1,4 @@
 <?php
-// Ciuffetelli\form\src\FormServiceProvider.php
 namespace seufetelli\form;
 use Illuminate\Support\ServiceProvider;
 
